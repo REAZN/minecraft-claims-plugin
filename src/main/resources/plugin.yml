@@ -1,0 +1,6 @@
+name: Claims
+version: ${project.version}
+main: me.reazn.claims
+api-version: 1.16
+authors: [ REAZN ]
+description: Claims plugin
